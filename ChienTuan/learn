@@ -1,0 +1,83 @@
+-------------------------------------------------
+Profile:
+
+- Phiên bản Linux đầu tiên do Linus Torvalds viết vào năm 1991, lúc ông còn là một sinh viên của Đại học Helsinki tại Phần Lan. Ông làm việc trong vòng 3 năm liên tục và cho ra đời phiên bản Linux 1.0 vào năm 1994. Bộ phận chủ yếu này được phát triển và đưa ra trên thị trường dưới bản quyền GNU General Public License. Do đó bất cứ ai cũng có thể tải và xem mã nguồn của Linux.
+
+- Phần mềm mã nguồn mở
+
+
+
+
+- tính “mở” cũng tạo nên sự an toàn cao khi sử dụng Linux vì nếu một lỗ hổng bảo mật bất kì được phát hiện trên Linux thì nó sẽ được cả cộng đồng mã nguồn mở cùng sửa và thường sẽ đưa ra bản vá lỗi sau 24 giờ.
+
+- Các bản phân phối chủ yếu của Linux có thể kể đến như sau: Ubuntu, Debian, RedHat, Fedora, OpenSUSE, Mint, CentOS, Gentoo, Open Solaris …
+
+-------------------------------------------------
+Tại sao developer phải quan tâm đến linux
+
+
+
+Linux và các bản distro được sử dụng vô cùng rộng rãi trong giới developers. Một vài ưu điểm sau khiến các nhà phát triển luôn luôn dành vị trí độc tôn trong tim cho Linux :
+
+    - Nó mở và miễn phí. Là một developer thì hai tiêu chí này với bạn sẽ quan trọng hơn với người thường
+    - Tùy biến thoải mái, và đa phần thì nhẹ nhàng.
+    - MacOS và Linux đều là hai hệ điều hành gần nhân Unix .
+    - Các ngôn ngữ lập trình, thư viện (trừ một số được thiết kế đặc thù cho windows như .net) đều ưu tiên hỗ trợ các hệ điều hành nhân Unix
+    - Linux được sử dụng rộng rãi trên các server. Quen với Linux trong máy tính thường ngày bạn sẽ dễ dàng thao tác với Server hơn sau này.
+    - Terminal tuyệt vời cùng với các ngôn ngữ shell scripting như bash, zsh,... gần như là đặc sản của Linux mà nhà phát triển nào cũng thích.
+    Công cụ phát triển phần mềm mạnh mẽ.
+    - Các công ty thường rất thích tuyển người có kinh nghiệm với Linux 
+-------------------------------------------------
+(((*))Giải nén .rar:
+		cài đặt: sudo apt-get install rar unrar
+
+--------------------------------------------------
+(((*))) gõ tiếng việt:
+	ibus-daemon --xim -r &
+	ctrl+alt+z
+
+--------------------------------------------------
+(((*))) xampp:
+	$/opt/lampp/xampp panel
+	$sudo /opt/lampp/xampp start 
+---------------------------------------------------
+(((*)))
+Tạo một thư mục mới
+vd tao backup:
+mkdir /home/marin/backup
+
+---------------------------------------------------
+(((*)))
+
+history để xem tất cả các lệnh Linux đã từng sử dụng trên Terminal.
+----------------------------------------------------
+
+(((**)))
+Sao chép và dán lệnh Linux : sử dụng Ctrl + Shift + C và Ctrl + Shift + V hoặc kích chuột phải rồi chọn Copy hoặc Paste
+
+dissssssss -_-
+
+-------------------------------------------------
+
+(((*))) dir
+giống như lệnh ls dùng để liệt kê tập tin và thư mục
+
+--------------------------------------------------
+(((*)))apt-get install soft 
+cài phần mềm soft đồng thời giải quyết các gói phần mềm phụ thuộc
+
+--------------------------------------------------
+http://thuviencntt.com/bai-viet-huong-dan/huong-dan-linux/tong-hop-cac-lenh-thuong-dung-tren-ubuntu/
+
+----------------------------------------------------
+
+- top: hoạt động khá giống như Task Manager trong Windows. Nó đưa ra thông tin về tất cả tài nguyên hệ thống, các tiến trình đang chạy, tốc độ load trung bình…
+
+----------------------------------------------------
+- uptime: thể hiện thời gian của hệ thống và tốc độ load trung bình trong khoảng thời gian đó
+
+--------------------------------------------------
+ free: hiển thị thông tin trên bộ nhớ hệ thống.
+ ------------------------------------------------
+
+ mkdir <tên thư mục mới>  tạo một thư mục mới 
